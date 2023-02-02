@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Devesh</h1>
+<h1 align="center">Hi 👋, It's Devesh</h1>
 <h3 align="center">A passionate android developer and code enthusiast from India</h3>
 
+- 🔭 I’m currently working on **developing my coding skills**
+
 - 🌱 I’m currently learning **app development with Kotlin**
+
+- 👯 I’m looking to collaborate on **github**
 
 - 📫 How to reach me **devesh2051@gmail.com**
 
