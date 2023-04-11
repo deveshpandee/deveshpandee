@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **devesh2051@gmail.com**
 
-- ⚡ Fun fact **I am not superstitious but i am a little stitious**
+- ⚡ Fun fact **I am not superstitious but I am a little stitious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
