@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **developing my coding skills**
 
-- 🌱 I’m currently learning **spring boot**
-
 - 👯 I’m looking to collaborate on **github**
 
 - 📫 How to reach me **devesh2051@gmail.com**
